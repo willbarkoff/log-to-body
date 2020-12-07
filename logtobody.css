@@ -1,0 +1,29 @@
+body {
+	background-color: #1f2227;
+}
+
+.log {
+	border-left: 5px solid #226dbf;
+}
+
+.log-item {
+	color: white;
+	font-family: monospace;
+	padding: 7px;
+	margin: 0;
+	border-bottom: 1px solid #ffffff22;
+}
+
+.error {
+	border-left: 4px solid #bf5b74;
+	background-color: #bf5b7422;
+}
+
+.warn {
+	border-left: 4px solid #f3ca63;
+	background-color: #f3ca6322;
+}
+
+small {
+	opacity: 0.5;
+}
